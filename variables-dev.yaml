@@ -1,0 +1,15 @@
+MONGODB_HOST: mongodb-dev.lingaiah.online  # submit your host
+REDIS_HOST: redis-dev.lingaiah.online 
+MYSQL_HOST: mysql-dev.lingaiah.online 
+RABBITMQ_HOST: rabbitmq-dev.lingaiah.online 
+CATALOGUE_HOST: catalogue.app-dev.lingaiah.online
+USER_HOST: user.app-dev.lingaiah.online
+CART_HOST: cart.app-dev.lingaiah.online 
+SHIPPING_HOST: shipping.app-dev.lingaiah.online 
+PAYMENT_HOST: payment.app-dev.lingaiah.online 
+DISPATCH_HOST: dispatch.app-dev.lingaiah.online
+
+WEB_HOST: web.app-dev.lingaiah.online
+# NEXUS_URL: http://172.31.5.95:8081/repository
+# group_id: "com/roboshop"
+

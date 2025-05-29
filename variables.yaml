@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.lingaiah.online # submit your host
+REDIS_HOST: redis.lingaiah.online
+MYSQL_HOST: mysql.lingaiah.online
+RABBITMQ_HOST: rabbitmq.lingaiah.online
+CATALOGUE_HOST: catalogue.lingaiah.online
+USER_HOST: user.lingaiah.online
+CART_HOST: cart.lingaiah.online
+SHIPPING_HOST: shipping.lingaiah.online
+PAYMENT_HOST: payment.lingaiah.online
+DISPATCH_HOST: dispatch.lingaiah.online
